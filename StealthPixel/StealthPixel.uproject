@@ -19,6 +19,10 @@
 		{
 			"Name": "RenderTrace",
 			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
