@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StealthPixel",
+			"Path": "..\\Source\\StealthPixel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StealthPixelEditor",
+			"Path": "..\\Source\\StealthPixelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

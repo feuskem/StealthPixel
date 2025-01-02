@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "w:\\unrealproject\\stealthpixelgithub\\stealthpixel\\stealthpixel\\source\\stealthpixel\\stealthpixel.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\unrealproject\\stealthpixelgithub\\stealthpixel\\stealthpixel\\intermediate\\build\\win64\\x64\\stealthpixeleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "w:\\unrealproject\\stealthpixelgithub\\stealthpixel\\stealthpixel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\stealthpixel\\definitions.stealthpixel.h",
+            "w:\\unrealproject\\stealthpixelgithub\\stealthpixel\\stealthpixel\\source\\stealthpixel\\stealthpixel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

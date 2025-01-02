@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StealthPixel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\StealthPixelEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthPixel\AISense2_Sight.gen.cpp.obj"
+"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthPixel\StealthPixel.init.gen.cpp.obj"
+"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthPixel\AISense2_Sight.cpp.obj"
+"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthPixel\StealthPixel.cpp.obj"
+"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthPixel\Default.rc2.res"
+/OUT:"W:\UnrealProject\StealthPixelGithub\StealthPixel\StealthPixel\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthPixel\UnrealEditor-StealthPixel.lib"

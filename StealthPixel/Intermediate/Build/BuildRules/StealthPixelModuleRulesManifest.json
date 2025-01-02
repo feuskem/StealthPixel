@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"W:\\UnrealProject\\StealthPixelGithub\\StealthPixel\\StealthPixel\\Source\\StealthPixel\\StealthPixel.Build.cs",
+		"W:\\UnrealProject\\StealthPixelGithub\\StealthPixel\\StealthPixel\\Source\\StealthPixel.Target.cs",
+		"W:\\UnrealProject\\StealthPixelGithub\\StealthPixel\\StealthPixel\\Source\\StealthPixelEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

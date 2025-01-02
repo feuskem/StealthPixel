@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StealthPixel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StealthPixel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StealthPixelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StealthPixel">
+      <UniqueIdentifier>{24E3BA23-3DAC-3693-A77A-CB65CC488ACD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StealthPixel\AISense2_Sight.cpp">
+      <Filter>Source\StealthPixel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthPixel\AISense2_Sight.h">
+      <Filter>Source\StealthPixel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthPixel\MyAISenseConfig2_Sight.cpp">
+      <Filter>Source\StealthPixel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthPixel\MyAISenseConfig2_Sight.h">
+      <Filter>Source\StealthPixel</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StealthPixel\StealthPixel.Build.cs">
+      <Filter>Source\StealthPixel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StealthPixel\StealthPixel.cpp">
+      <Filter>Source\StealthPixel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthPixel\StealthPixel.h">
+      <Filter>Source\StealthPixel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
